@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Data-science"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Projects"
+		},
+		{
+			"path": "../../../Python"
+		},
+		{
+			"path": "../../../Python_Leetcode_problems"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projects"
+	}
+}
